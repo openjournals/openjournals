@@ -1,1 +1,3 @@
-# openjournals
+# Open Journals
+
+This is a test.
